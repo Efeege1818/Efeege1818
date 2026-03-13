@@ -13,3 +13,6 @@ Currently, I’m focused on expanding my programming skills while learning more 
 |----------|----------|----------|
 | ☕Java   | 🤖OpenAPI   | 🐙 Git / GitLab   |
 | 🐍Python   | 🗄️SQL   | 🐳 Docker  |
+
+## Other Projects
+...
