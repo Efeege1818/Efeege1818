@@ -9,10 +9,10 @@
 Currently, I’m focused on expanding my programming skills while learning more about system security, vulnerabilities, and secure software development.
 
 ## 🛠️Technical Toolbox
-| Core Engineering | AI & Data | DevOps & Tools |
+| Core Engineering | Data | DevOps & Tools |
 |----------|----------|----------|
-| ☕Java   | 🤖OpenAPI   | 🐙 Git / GitLab   |
-| 🐍Python   | 🗄️SQL   | 🐳 Docker  |
+| ☕Java   |  🗄️SQL  | 🐙 Git / GitLab   |
+| 🐍Python   |    | 🐳 Docker  |
 
 ## Other Projects
 ...
