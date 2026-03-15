@@ -17,4 +17,4 @@ Currently, I’m focused on expanding my programming skills while learning more 
 |  | 📄 OpenAPI |  |
 
 ## Other Projects
-* [PowerPong – An enhanced version of the classic game Pong](https://github.com/Efeege1818/PowerPong)
+* [PowerPong]: (https://github.com/Efeege1818/PowerPong) 
